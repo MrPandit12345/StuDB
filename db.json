@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Vishal Pandit",
+      "place": "Pune",
+      "phone": "7876790156"
+    },
+    {
+      "id": "2",
+      "name": "Deepali Pandit",
+      "place": "Nashik",
+      "phone": "7876758746"
+    },
+    {
+      "id": "3",
+      "name": "Om Thorat",
+      "place": "Sinner",
+      "phone": "8987865243"
+    },
+    {
+      "id": "4",
+      "name": "Manish",
+      "place": "beed",
+      "phone": "8778678990"
+    },
+    {
+      "id": "5",
+      "name": "Ankit",
+      "place": "Jalgaon",
+      "phone": "8888878799"
+    }
+  ]
+}
